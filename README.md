@@ -7,7 +7,7 @@ The New Brunswick Department of Health, Health Analytics branch, fosters the str
 ## The Data 														
 "The world of digital health is continuously expanding and has enormous potential to provide adequate, cost-efficient, safe and scalable eHealth interventions to improve health and health care.It is time to reimagine the traditional, in-person approach to care.
 
-Digital health solutions can change the way New Brunswickers receive services and how citizens and providers engage with the health-care system. These services or interventions should be designed around the patient’s needs and pertinent informationshould be shared in a proactive and efficient way through smarter use of data, devices, communication platforms and people.
+Digital health solutions can change the way New Brunswickers receive services and how citizens and providers engage with the health-care system. These services or interventions should be designed around the patient’s needs and pertinent information should be shared in a proactive and efficient way through smarter use of data, devices, communication platforms and people.
 
 This data set contains an aggregation of patient visits that have occurred during the pandemic. As part of the pandemic response, which includes the new program to support virtual care delivery for the public. The data elements within the data set will allow you to trend the progress of virtual visits, and to describe the characteristics of patients and physicians who have embraced virtual care.The data set contains 113,202 rows including title headers."	
 
